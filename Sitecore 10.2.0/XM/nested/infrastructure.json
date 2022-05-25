@@ -208,7 +208,7 @@
             "SkuCapacity": 1
           },
           "siHostingPlanIsolated": {
-            "SkuName": "I1",
+            "SkuName": "I1V2",
             "SkuCapacity": 1
           },
           "cmHostingPlan": {
@@ -216,7 +216,7 @@
             "SkuCapacity": 1
           },
           "cmHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2V2",
             "SkuCapacity": 1
           },
           "cdHostingPlan": {
@@ -224,7 +224,7 @@
             "SkuCapacity": 2
           },
           "cdHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2V2",
             "SkuCapacity": 1
           },
           "coreSqlDatabase": {
@@ -265,7 +265,7 @@
             "SkuCapacity": 1
           },
           "siHostingPlanIsolated": {
-            "SkuName": "I1",
+            "SkuName": "I1V2",
             "SkuCapacity": 1
           },
           "cmHostingPlan": {
@@ -273,7 +273,7 @@
             "SkuCapacity": 1
           },
           "cmHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2V2",
             "SkuCapacity": 1
           },
           "cdHostingPlan": {
@@ -281,7 +281,7 @@
             "SkuCapacity": 3
           },
           "cdHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2V2",
             "SkuCapacity": 2
           },
           "coreSqlDatabase": {
@@ -322,7 +322,7 @@
             "SkuCapacity": 1
           },
           "siHostingPlanIsolated": {
-            "SkuName": "I1",
+            "SkuName": "I1V2",
             "SkuCapacity": 1
           },
           "cmHostingPlan": {
@@ -330,7 +330,7 @@
             "SkuCapacity": 1
           },
           "cmHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2V2",
             "SkuCapacity": 1
           },
           "cdHostingPlan": {
@@ -338,7 +338,7 @@
             "SkuCapacity": 3
           },
           "cdHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2V2",
             "SkuCapacity": 2
           },
           "coreSqlDatabase": {
@@ -379,7 +379,7 @@
             "SkuCapacity": 1
           },
           "siHostingPlanIsolated": {
-            "SkuName": "I1",
+            "SkuName": "I1V2",
             "SkuCapacity": 1
           },
           "cmHostingPlan": {
@@ -387,7 +387,7 @@
             "SkuCapacity": 1
           },
           "cmHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2V2",
             "SkuCapacity": 1
           },
           "cdHostingPlan": {
@@ -395,7 +395,7 @@
             "SkuCapacity": 6
           },
           "cdHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2V2",
             "SkuCapacity": 3
           },
           "coreSqlDatabase": {
@@ -493,7 +493,7 @@
             "SkuCapacity": 1
           },
           "siHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2V2",
             "SkuCapacity": 1
           },
           "cmHostingPlan": {
@@ -501,7 +501,7 @@
             "SkuCapacity": 1
           },
           "cmHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2V2",
             "SkuCapacity": 1
           },
           "cdHostingPlan": {
@@ -509,7 +509,7 @@
             "SkuCapacity": 8
           },
           "cdHostingPlanIsolated": {
-            "SkuName": "I3",
+            "SkuName": "I3V2",
             "SkuCapacity": 4
           },
           "coreSqlDatabase": {
@@ -550,7 +550,7 @@
             "SkuCapacity": 1
           },
           "siHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2V2",
             "SkuCapacity": 1
           },
           "cmHostingPlan": {
@@ -558,7 +558,7 @@
             "SkuCapacity": 1
           },
           "cmHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2V2",
             "SkuCapacity": 1
           },
           "cdHostingPlan": {
@@ -566,7 +566,7 @@
             "SkuCapacity": 8
           },
           "cdHostingPlanIsolated": {
-            "SkuName": "I3",
+            "SkuName": "I3V2",
             "SkuCapacity": 8
           },
           "coreSqlDatabase": {
