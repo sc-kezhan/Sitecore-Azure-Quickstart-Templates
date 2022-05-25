@@ -436,7 +436,7 @@
             "SkuCapacity": 1
           },
           "siHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2V2",
             "SkuCapacity": 1
           },
           "cmHostingPlan": {
@@ -444,7 +444,7 @@
             "SkuCapacity": 1
           },
           "cmHostingPlanIsolated": {
-            "SkuName": "I2",
+            "SkuName": "I2V2",
             "SkuCapacity": 1
           },
           "cdHostingPlan": {
@@ -452,7 +452,7 @@
             "SkuCapacity": 4
           },
           "cdHostingPlanIsolated": {
-            "SkuName": "I3",
+            "SkuName": "I3V2",
             "SkuCapacity": 2
           },
           "coreSqlDatabase": {
